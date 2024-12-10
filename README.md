@@ -1,1 +1,1 @@
-# Library-management-system
+# EasyLibrary
